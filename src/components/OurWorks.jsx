@@ -8,6 +8,7 @@ import Valogo from  "../assets/valogo.png";
 import {AiFillFacebook} from "react-icons/ai";
 import {AiFillYoutube} from "react-icons/ai";
 import {AiFillInstagram} from "react-icons/ai";
+import {AiOutlineCopyrightCircle} from "react-icons/ai";
 
 
 import { useState } from 'react';
@@ -140,7 +141,7 @@ const OurWorks = () => {
     </div>
 
 <div className="text-white  mt-28 flex justify-center">
-  <AiFillCopyrightCircle className="   pb-3 mr-5 " size={'50px'} />
+  <AiOutlineCopyrightCircle className="   pb-3 mr-5 " size={'50px'} />
   <h1 className=" text-3xl">2023 Copyright: Vanilla Video Production</h1>
 </div>
 
