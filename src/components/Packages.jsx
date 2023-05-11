@@ -89,16 +89,12 @@ const OurWorks = () => {
 
  
 
-    <section className="bg-gray-300 py-16 w-full" >
+    <section className="bg-gray-300 py-16 w-full h-fit" >
       <div className="container mx-auto">
-        <h1 className="text-center text-6xl ml-2 font-signature  font-extrabold">Explore Vanilla Production Studio in Different Fields</h1>
+        
       </div>
     </section>
 
-    <section className="bg-white py-10 w-full" >
-      <div className="container mx-auto">
-      </div>
-    </section>
 
     <section className="bg-black py-8 w-full" >
     <div>
