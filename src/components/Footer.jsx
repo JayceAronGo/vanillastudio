@@ -7,7 +7,7 @@ import {AiOutlineCopyrightCircle} from "react-icons/ai";
 
 const Footer = () => {
   return (
-    <div className='fixed'>
+    <div className=''>
          <section className="bg-black py-8 w-full" >
     <div>
       <div className="container ml-5 flex justify-end">
