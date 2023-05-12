@@ -9,8 +9,6 @@ import {AiFillFacebook} from "react-icons/ai";
 import {AiFillYoutube} from "react-icons/ai";
 import {AiFillInstagram} from "react-icons/ai";
 import {AiOutlineCopyrightCircle} from "react-icons/ai";
-
-
 import { useState } from 'react';
 
 const OurWorks = () => {
@@ -72,9 +70,7 @@ const OurWorks = () => {
       </div>
     </section>
 
-    </div>
-
-<section className="bg-black py-8 w-full" >
+    <section className="bg-black py-8 w-full" >
 <div>
   <div className="container ml-5 flex justify-end">
     <div className=" text-white text-2xl flex  ml-6">
@@ -146,6 +142,9 @@ const OurWorks = () => {
 </div>
 
 </section>
+    </div>
+
+
       
   )
 
