@@ -25,7 +25,7 @@ const OurWorks = () => {
     </div>
 
 
-    <section className="bg-gray-300 py-auto  w-full" >
+    <section className="bg-gray-300 py-20 w-full" >
       <div className="container mx-auto flex  pt-20 space-x-20 pl-40">
         <div className="border border-black border-solid rounded-xl p-4 w-1/2 h-fit bg-white ">
           <div className="py-10 pr-30">
@@ -49,6 +49,9 @@ const OurWorks = () => {
               Price starts only at ₱40,000 and may vary depends on add on and changes.
             </div>
           </div>
+          <div className=" cursor-pointer text-sky-600 text-4xl underline  ml-52 pb-20 font-bold">
+        <h1 className="">Reserve Now</h1>
+      </div>
         </div>
 
         <div className="border border-none p-4 w-1/3 h-fit  ">
@@ -76,9 +79,7 @@ const OurWorks = () => {
             </div>
         </div>
       </div>
-      <div className=" cursor-pointer text-sky-600 text-4xl underline pl-96 ml-52 pb-40 font-bold">
-        <h1 className="">Reserve Now</h1>
-      </div>
+
     </section>
 
     <section className="bg-white py-10">
@@ -101,7 +102,6 @@ const OurWorks = () => {
     </div>  
   )
 
-  
 }
 
 export default OurWorks

@@ -29,7 +29,7 @@ import {AiFillInstagram} from "react-icons/ai";
             <div className="py-10 pr-30">
             <h1 className=" text-4xl font-extrabold font-signature pt-5">Commercial</h1>
             <h1 className=" text-2xl font-extrabold font-signature pt-2 pl-2">₱ 40,000</h1>
-            <ul className=" list-disc py-7  pl-7 text-2xl font-bold">
+            <ul className=" list-disc pl-7 py-7  text-2xl font-bold">
               <li className="pt-4">
                   12 hrs of Filming
               </li>
@@ -56,7 +56,7 @@ import {AiFillInstagram} from "react-icons/ai";
             <div className="py-10 pr-30">
             <h1 className=" text-4xl font-extrabold font-signature pt-5">Documentary Film</h1>
             <h1 className=" text-2xl font-extrabold font-signature pt-2 pl-2">₱ 200,000</h1>
-            <ul className=" list-none py-7 text-2xl font-bold">
+            <ul className=" list-disc pl-7 py-7 text-2xl font-bold">
               <li className="pt-4">
                   12 hrs of Filming
               </li>
@@ -83,7 +83,7 @@ import {AiFillInstagram} from "react-icons/ai";
             <div className="py-10 pr-30">
             <h1 className=" text-4xl font-extrabold font-signature pt-5">Corporate AVP</h1>
             <h1 className=" text-2xl font-extrabold font-signature pt-2 pl-2">₱ 75,000</h1>
-            <ul className=" list-none py-7 text-2xl font-bold">
+            <ul className=" list-disc pl-7 py-7 text-2xl font-bold">
               <li className="pt-4">
                   12 hrs of Filming
               </li>
@@ -117,7 +117,7 @@ import {AiFillInstagram} from "react-icons/ai";
             <div className="py-10 pr-30">
             <h1 className=" text-4xl font-extrabold font-signature pt-5">Commercial</h1>
             <h1 className=" text-2xl font-extrabold font-signature pt-2 pl-2">₱ 80,000</h1>
-            <ul className=" list-none py-7 text-2xl font-bold">
+            <ul className=" list-disc pl-7 py-7 text-2xl font-bold">
               <li className="pt-4">
                   12 hrs of Filming
               </li>
@@ -144,7 +144,7 @@ import {AiFillInstagram} from "react-icons/ai";
             <div className="py-10 pr-30">
             <h1 className=" text-4xl font-extrabold font-signature pt-5">Documentary Film</h1>
             <h1 className=" text-2xl font-extrabold font-signature pt-2 pl-2">₱ 400,000</h1>
-            <ul className=" list-none py-7 text-2xl font-bold">
+            <ul className=" list-disc pl-7 py-7 text-2xl font-bold">
               <li className="pt-4">
                   12 hrs of Filming
               </li>
@@ -171,7 +171,7 @@ import {AiFillInstagram} from "react-icons/ai";
             <div className="py-10 pr-30">
             <h1 className=" text-4xl font-extrabold font-signature pt-5">Corporate AVP</h1>
             <h1 className=" text-2xl font-extrabold font-signature pt-2 pl-2">₱ 150,000</h1>
-            <ul className=" list-none py-7 text-2xl font-bold">
+            <ul className="list-disc pl-7 py-7 text-2xl font-bold">
               <li className="pt-4">
                   12 hrs of Filming
               </li>
