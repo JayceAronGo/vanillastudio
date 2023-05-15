@@ -9,7 +9,7 @@ function App() {
   return (
 <div >
 <Navbar />
-<Packages/>
+<OurWorks/>
 <Footer />
 </div>
   )

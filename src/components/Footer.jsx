@@ -74,7 +74,7 @@ const Footer = () => {
 
         </div>
 
-    <div className="text-white  mt-28 flex justify-center">
+    <div className="text-white  mt-18 pt-10 flex justify-center">
       <AiOutlineCopyrightCircle className="   pb-3 mr-5 " size={'50px'} />
       <h1 className=" text-3xl">2023 Copyright: Vanilla Video Production</h1>
     </div>
