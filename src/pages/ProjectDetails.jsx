@@ -27,18 +27,29 @@ const ProjectDetails = () => {
           
           </div>
         </div>
+        
+  
+        <div className=" absolute flex z-16 top-64 right-1/2 ">
+          <div className='text-white '>
+            <h1 className='text-5xl font-bold '> Rules and Guidelines </h1>
+          </div>
+        </div>
 
-        <div className=" absolute z-16 top-64 right-1/2 ">
-          <div className=''>
-            <h1 className='text-white text-5xl text-end '> Rules and Guidelines </h1>
+
+        <div className=" absolute   z-16 top-64   pr-48 ">
+      
+          <div className='text-white py-14 flex  '>
             <ul>
-              <li>
-
+              <li className=''>
+              Any permits and documents needed to shoot on the project venue will be handled by the customer 
+              </li>
+              <li className=''>
+              Any permits and documents needed to shoot on the project venue will be handled by the customer 
               </li>
             </ul>
           </div>
         </div>
-
+  
 
 
         <div className='flex absolute z-16 top-3/4 left-1/2'>
