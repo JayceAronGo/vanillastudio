@@ -10,7 +10,7 @@ const ProjectDetails = () => {
         <img className="w-full h-full object-cover " src={Vapoly} alt="bgm"></img>
 
    
-    <div className=" absolute top-36  w-full left-1/4">
+    <div className=" absolute top-36  w-full left-1/4  ">
 
         <div className=" border-none z-14 rounded-3xl p-4 w-1/2 h-fix  pb-40 bg-black bg-opacity-75 ">
             <div className=' flex z-16 top-64 '>
@@ -100,8 +100,8 @@ const ProjectDetails = () => {
                       </div>
                   </ul>
 
-                  <div className='flex absolute z-16 bottom-3/5 py-10 right-2/4'>
-          <div className=' flex pl-30'>
+                  <div className='flex absolute z-16 bottom-3/5 py-10 right-2/4 '>
+          <div className=' flex pl-30 '>
           <div className=" py-20 ">
             <div className=" cursor-pointer text-center font-bold  text-2xl py-1 px-16 border-2 border-solid  rounded-2xl text-sky-600 border-sky-600 hover:scale-105 duration-300">
               <h1>Go Back</h1>
