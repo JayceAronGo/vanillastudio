@@ -7,13 +7,14 @@ import Calendar from "./pages/Calendar";
 import Confirm from "./pages/Confirm";
 import Payment from "./pages/Payment";
 import ProjectDetails from "./pages/ProjectDetails";
+import Receipt from "./pages/Receipt";
 
 
 function App() {
   return (
 <div >
 <Navbar />
-<Payment />
+<Receipt />
 <Footer />
 </div>
   )
