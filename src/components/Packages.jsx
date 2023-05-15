@@ -10,9 +10,9 @@ import {AiFillInstagram} from "react-icons/ai";
     <div>
 
 
- <section className="bg-gray-300 py-auto  w-full" >
+ <section className="bg-gray-300 py-40  w-full" >
     <div>
-        <h1 className='text-center font-bold text-6xl py-20'>Basic Packages</h1>
+        <h1 className='text-center font-bold text-6xl py-30 mb-10'>Basic Packages</h1>
         
         <div className="flex px-20 space-x-20 pb-20 pt-6">
             <div className="border border-black border-solid rounded-xl p-4 w-1/3 h-fit bg-white">

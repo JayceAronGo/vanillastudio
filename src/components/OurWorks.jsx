@@ -19,7 +19,7 @@ const OurWorks = () => {
         <img className="w-full h-full object-cover " src={Vanillabgm} alt="bgm"></img>
  
     <div className=" flex items-center justify-center ">
-        <img className="absolute w-1/2 top-1/4 left-75 z-10 hover:scale-105 duration-300" src={Valogo} alt="logo" ></img>
+        <img className="absolute max-w-7xl top-1/4 left-75 z-10 hover:scale-105 duration-300" src={Valogo} alt="logo" ></img>
     </div>
   
     <div className=" flex items-center justify-center ml-6 ">

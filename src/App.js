@@ -9,7 +9,7 @@ function App() {
   return (
 <div >
 <Navbar />
-<OurWorks/>
+<Calendar/>
 <Footer />
 </div>
   )

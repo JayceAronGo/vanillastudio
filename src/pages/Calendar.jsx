@@ -10,31 +10,46 @@ const Calendar = () => {
   return (
     <div>
         <img className="w-full h-full object-cover " src={Vapoly} alt="bgm"></img>
-    
+
+   
     <div className="flex items-center justify-center">
 
-        <div className=' absolute border-none z-14 top-1/4 left-1/4 rounded-xl p-4 w-1/3 h-fit bg-white'>
+        <div className="absolute border-none z-14 top-1/4 right-1/4 rounded-xl p-4 w-1/2 h-fix  pb-40 bg-white ">
+          <div className=" py-60">
+              <div className="">
 
+              {/* Calendar API */}
+              <div>
+
+              </div>
+              
+              </div>
+          
+          </div>
         </div>
+
+        <div className='flex absolute z-16 top-3/4 right-1/4'>
+          <div className=' flex pr-3'>
+          <div className=" py-20 ">
+            <div className=" cursor-pointer text-center font-bold  text-2xl py-4 px-16 border-4 border-none  rounded-3xl text-white bg-sky-600 hover:scale-105 duration-300">
+              <h1>Go Back</h1>
+            </div>
+          </div>
+
+          <div className=" py-20 px-40  ">
+            <div className=" cursor-pointer text-center font-bold  text-2xl py-4 px-16 border-4 border-none  rounded-3xl text-white bg-sky-600 hover:scale-105 duration-300">
+              <h1>Continue</h1>
+            </div>
+          </div>
+          </div>
+        </div>
+
     </div>
 
-
-
-
-
-
-
-        <div className=" flex items-center justify-center ">
-     <img className="absolute w-1/2 top-1/4 left-75 z-10 hover:scale-105 duration-300" src={Valogo} alt="logo" ></img>
-    </div>
-
-        <div className=" flex items-center justify-center ml-6 ">
-           <AiFillInstagram className="absolute  filter invert  top-1/2 z-10 ml-40 hover:scale-125 duration-300" size={'50px'} />
-           <AiFillYoutube className="absolute  top-1/2 z-10 ml-0 filter invert hover:scale-125 duration-300" size={'50px'} />
-           <AiFillFacebook className="absolute  top-1/2 z-10 -ml-40 filter invert hover:scale-125 duration-300" size={'50px'} />
-        
-
-    </div>
+ <section className="bg-gray-300 py-10 w-full" >
+      <div className="container mx-auto">
+      </div>
+    </section>
     </div>
   )
 }
