@@ -8,7 +8,7 @@ import {AiFillInstagram} from "react-icons/ai";
 
 const ProjectDetails = () => {
   return (
-    <div>
+    <div className=' relative'>
         <img className="w-full h-full object-cover " src={Vapoly} alt="bgm"></img>
 
    
@@ -39,12 +39,15 @@ const ProjectDetails = () => {
         <div className=" absolute   z-16 top-64   pr-48 ">
       
           <div className='text-white py-14 flex  '>
-            <ul>
-              <li className=''>
+            <ul className=' text-2xl'>
+              <li className=' mb-4'>
               Any permits and documents needed to shoot on the project venue will be handled by the customer 
               </li>
               <li className=''>
-              Any permits and documents needed to shoot on the project venue will be handled by the customer 
+              There will be a change in price depending on the location, no. of outputs and video duration
+              </li>
+              <li className=''>
+              The packages are only estimated price of the project.
               </li>
             </ul>
           </div>
