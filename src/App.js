@@ -3,6 +3,7 @@ import Navbar from "./components/Navbar";
 import OurWorks from "./components/OurWorks";
 import  Packages  from "./components/Packages";
 import PackageDetail from "./components/PackagesDetails";
+import About from "./pages/About";
 import Calendar from "./pages/Calendar";
 import Confirm from "./pages/Confirm";
 import Payment from "./pages/Payment";
@@ -14,7 +15,7 @@ function App() {
   return (
 <div >
 <Navbar />
-<Receipt />
+<About />
 <Footer />
 </div>
   )
