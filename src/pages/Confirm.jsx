@@ -11,7 +11,7 @@ const Confirm = () => {
    
         <div className=" absolute top-36  w-full left-1/4">
 
-            <div className=" border-none z-14 rounded-3xl p-4 w-1/2 h-fix pb-28  bg-gray-100 text-black">
+            <div className=" border-none z-14 rounded-3xl p-4 w-1/2 h-fix pb-28  bg-gray-100 text-black bg-opacity-75">
                 <div className="  pt-10">
                     <div className='text-center '>
                         <h1 className=" text-5xl font-bold font-signature">

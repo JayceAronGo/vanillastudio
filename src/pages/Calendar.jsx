@@ -8,13 +8,13 @@ import {AiFillInstagram} from "react-icons/ai";
 
 const Calendar = () => {
   return (
-    <div>
+    <div className=''>
         <img className="w-full h-full object-cover " src={Vapoly} alt="bgm"></img>
 
    
     <div className="flex items-center justify-center">
 
-        <div className="absolute border-none z-14 top-1/4 right-1/4 rounded-xl p-4 w-1/2 h-fix  pb-40 bg-white ">
+        <div className="absolute border-none z-14 top-1/4 right-1/4 rounded-xl p-4 w-1/2 h-fix  pb-40 bg-white  bg-opacity-75">
           <div className=" py-60">
               <div className="">
 
