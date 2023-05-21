@@ -66,9 +66,9 @@ const OurWorks = () => {
       </div>
     </section>
 
-    <section className="bg-white pt-10 w-full" >
+    <section className="bg-white py-20 w-full" >
       <div className="container  ">
-      <Terts size="50%"  />
+      < Terts />
       </div>
     </section>
 
