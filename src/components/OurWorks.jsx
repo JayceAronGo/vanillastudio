@@ -67,8 +67,8 @@ const OurWorks = () => {
     </section>
 
     <section className="bg-white pt-10 w-full" >
-      <div className="container mx-auto">
-        <Terts />
+      <div className="container  ">
+      <Terts size="50%"  />
       </div>
     </section>
 
