@@ -1,7 +1,7 @@
 import React from 'react'
 import Vapoly from "../assets/vapoly.jpg";
 import Valogo from  "../assets/valogo.png";
-import {CgProfile} from "react-icons/cg";
+
 
 const Signin = () => {
   return (
