@@ -8,6 +8,7 @@ import Calendar from "./pages/Calendar";
 import Confirm from "./pages/Confirm";
 import Contact from "./pages/Contact";
 import Payment from "./pages/Payment";
+import Profile from "./pages/Profile";
 import ProjectDetails from "./pages/ProjectDetails";
 import Receipt from "./pages/Receipt";
 
@@ -15,8 +16,8 @@ import Receipt from "./pages/Receipt";
 function App() {
   return (
 <div >
-<Navbar />
-<PackageDetail />
+
+< Profile/>
 <Footer />
 </div>
   )
