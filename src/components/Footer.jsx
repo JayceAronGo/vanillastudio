@@ -9,21 +9,9 @@ const Footer = () => {
   return (
     <div className=''>
          <section className="bg-black py-8 w-full" >
-    <div>
-      <div className="container ml-5 flex justify-end">
-        <div className=" text-white text-2xl flex  ml-6">
-          <h1 className=" mr-72 font-medium">Get connected with us on social networks:</h1>
-        
-          <div className=" filter invert ml-96 pl-96 ">
-              <AiFillInstagram className=" w-10 absolute filter invert  ml-40 hover:scale-125 duration-300" size={'50px'} />
-              <AiFillYoutube className="  w-10 absolute ml-60 filter invert hover:scale-125 duration-300" size={'50px'} />
-              <AiFillFacebook className=" w-10 absolute ml-20 filter invert hover:scale-125 duration-300" size={'50px'} />
-          </div>
-    </div>
-        </div>
-      </div>
+ 
 
-      <div className="container flex justify-start pt-16  pl-2">
+      <div className="container flex justify-start pt-4  pl-2">
       <div>
       <img className=" w-32 ml-24" src={Valogo} alt="logo" ></img>
       </div>
@@ -42,7 +30,7 @@ const Footer = () => {
 
       <div className="text-white text-2xl pl-20 flex " >
         <div className=" border border-transparent p-2 w-1/4  h-28">
-          <p>Here you can use rows and columns to organize your footer content, Lorem ipsum dolor sit amet, consecteture</p>
+          <p>Vanilla Studio Provides the best service there is for you and others.</p>
           </div>
 
           <div className=" border border-transparent p-2  h-28 ml-36">
@@ -73,11 +61,26 @@ const Footer = () => {
           </div>
 
         </div>
+      
+      <div>
+        <div className="container ml-5 flex justify-end pt-16">
+        <div className=" text-white text-2xl flex  ml-6">
+          <h1 className=" mr-72 font-medium">Get connected with us on social networks:</h1>
+        
+          <div className=" filter invert ml-96 pl-96 ">
+              <AiFillInstagram className=" w-10 absolute filter invert  ml-40 hover:scale-125 duration-300" size={'50px'} />
+              <AiFillYoutube className="  w-10 absolute ml-60 filter invert hover:scale-125 duration-300" size={'50px'} />
+              <AiFillFacebook className=" w-10 absolute ml-20 filter invert hover:scale-125 duration-300" size={'50px'} />
+          </div>
+    </div>
+        </div>
+        </div>
 
     <div className="text-white  mt-18 pt-10 flex justify-center">
       <AiOutlineCopyrightCircle className="   pb-3 mr-5 " size={'50px'} />
       <h1 className=" text-3xl">2023 Copyright: Vanilla Video Production</h1>
     </div>
+
 
     </section>
     </div>
