@@ -10,6 +10,7 @@ import {AiFillYoutube} from "react-icons/ai";
 import {AiFillInstagram} from "react-icons/ai";
 import {AiOutlineCopyrightCircle} from "react-icons/ai";
 import { useState } from 'react';
+import Terts from "../pages/Terts";
 
 const OurWorks = () => {
   
@@ -65,8 +66,9 @@ const OurWorks = () => {
       </div>
     </section>
 
-    <section className="bg-white py-10 w-full" >
+    <section className="bg-white pt-10 w-full" >
       <div className="container mx-auto">
+        <Terts />
       </div>
     </section>
 

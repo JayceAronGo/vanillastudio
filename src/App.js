@@ -13,14 +13,15 @@ import ProjectDetails from "./pages/ProjectDetails";
 import Receipt from "./pages/Receipt";
 import Signin from "./pages/Signin";
 import SignUp from "./pages/SignUp";
+import Terts from "./pages/Terts";
 
 
 function App() {
   return (
 <div >
 
-< Contact/>
-<Footer />
+< OurWorks/>
+< Footer/>
 </div>
   )
 
