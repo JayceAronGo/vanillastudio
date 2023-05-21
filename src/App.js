@@ -19,7 +19,7 @@ function App() {
   return (
 <div >
 
-< SignUp/>
+< Contact/>
 <Footer />
 </div>
   )
