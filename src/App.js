@@ -11,13 +11,15 @@ import Payment from "./pages/Payment";
 import Profile from "./pages/Profile";
 import ProjectDetails from "./pages/ProjectDetails";
 import Receipt from "./pages/Receipt";
+import Signin from "./pages/Signin";
+import SignUp from "./pages/SignUp";
 
 
 function App() {
   return (
 <div >
 
-< Profile/>
+< Signin/>
 <Footer />
 </div>
   )

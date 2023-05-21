@@ -95,10 +95,10 @@ const Profile = () => {
 
                <div className=' flex space-x-10 border-b-2 border-black'>
                <li>
-                  Phone Number:
+                  Contact Number:
                </li>
                <div className=' pl-2 font-bold'>
-                #09295143806
+                09295143806
                        {/* Insert Backend */}
                    </div>
                </div>
