@@ -29,9 +29,9 @@ const OurWorks = () => {
       <div className="container mx-auto flex  pt-20 space-x-20 pl-40">
         <div className="border border-black border-solid rounded-xl p-4 w-1/2 h-fit bg-white ">
           <div className="py-10 pr-30">
-            <h1 className=" text-4xl font-extrabold font-signature pt-5">Commercial</h1>
-            <h1 className=" text-2xl font-extrabold font-signature pt-2 pl-2">₱ 40,000</h1>
-            <ul className=" list-none py-7 text-2xl font-bold">
+            <h1 className=" text-4xl font-extrabold font-signature pt-5 text-center">Commercial</h1>
+            <h1 className=" text-2xl font-extrabold font-signature pt-2 text-center">₱ 40,000</h1>
+            <ul className=" list-disc py-7 px-10 text-2xl font-bold">
               <li className="pt-4">
                   12 hrs of Filming
               </li>
@@ -49,8 +49,10 @@ const OurWorks = () => {
               Price starts only at ₱40,000 and may vary depends on add on and changes.
             </div>
           </div>
-          <div className=" cursor-pointer text-sky-600 text-4xl underline  ml-52 pb-20 font-bold">
+          <div className=" px-20">
+          <div className=" cursor-pointer text-center font-bold text-2xl py-4 border-4 border-solid border-sky-600  rounded-3xl text-sky-600 hover:scale-105 duration-300 ">
         <h1 className="">Reserve Now</h1>
+      </div>
       </div>
         </div>
 

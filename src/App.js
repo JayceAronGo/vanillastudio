@@ -16,7 +16,7 @@ function App() {
   return (
 <div >
 <Navbar />
-<Packages />
+<PackageDetail />
 <Footer />
 </div>
   )
