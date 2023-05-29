@@ -6,19 +6,6 @@ import Valogo from  "../assets/valogo.png";
 const Signin = () => {
   return (
     <div className=' relative '>
-         <nav className="bg-gray-900 text-white  shadow-xl w-full h-32">
-    <div className=' flex flex-col'>
-        <div className=' ' >
-            <div className=' py-10 px-16 '>
-            <img className=" w-40" src={Valogo} alt="logo" ></img>
-            </div>
-
- 
-
-        </div>
-    </div>
-
-      </nav>
 
       <img className="w-full h-fit object-cover  " src={Vapoly} alt="bgm"></img>
 
